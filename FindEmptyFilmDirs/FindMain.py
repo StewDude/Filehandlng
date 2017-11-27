@@ -31,28 +31,27 @@ for Dir in DirList:
     for dirName, subdirList, fileList in os.walk(Dir):
         for subdir in subdirList:
             subdir = subdir.lower()
-            if not subdir.find(".actors") and \
-               not subdir.find("featurettes") and \
-               not subdir.find("extras") and \
-               not subdir.find("deleted") and \
-               not subdir.finf("extras"):
+            if not subdir.endswith(".actors") and \
+               not subdir.endswith("featurettes") and \
+               not subdir.endswith("extras") and \
+               not subdir.endswith("deleted") and \
+               not subdir.endswith("sample") and \
+               not subdir.endswith("extras-grym"):
                 for fname in fileList:
                     dirName = dirName.lower()
                     fname = fname.lower()
                     old_path = dirName + os.sep + subdir + os.sep + fname
                     vid_found = False
 #                   print("\t" + old_path)
-                    if old_path.find(".actors") == -1 or old_path.find("Feature") != -1:
-#                       print("\tFound directory: %s" % dirName)
-                        fname = fname.lower()
-                        for extension in ExtList:
-                            if (vid_found == False) and (fname.find("." + extension.lower()) != -1):
-                                vid_found = True
-                                break
-
-                        if vid_found == True:
+#                   print("\tFound directory: %s" % dirName)
+                    for extension in ExtList:
+                        if (vid_found == False) and fname.endswith(extension.lower()):
+                            vid_found = True
                             break
-                        else:
-                            print( dirName + os.sep + subdir + " looks suspect" )
+
+                    if vid_found == True:
+                        break
+                    else:
+                        print( dirName + os.sep + subdir + " looks suspect" )
             else:
                 print( dirName + os.sep + subdir + os.sep )
