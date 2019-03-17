@@ -36,6 +36,7 @@ for Dir in DirList:
                not subdir.endswith("extras") and \
                not subdir.endswith("deleted") and \
                not subdir.endswith("sample") and \
+               not subdir.endswith("images") and \
                not subdir.endswith("extras-grym"):
                 for fname in fileList:
                     dirName = dirName.lower()
@@ -53,5 +54,5 @@ for Dir in DirList:
                         break
                     else:
                         print( dirName + os.sep + subdir + " looks suspect" )
-            else:
-                print( dirName + os.sep + subdir + os.sep )
+#           else:
+#               print( dirName + os.sep + subdir + os.sep )
