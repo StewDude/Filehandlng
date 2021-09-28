@@ -1210,14 +1210,15 @@ folder_list = ['In the Loop (2009)',
  'Dune 1984',
  'Batman Begins (2005)']
 
-for folder in folder_list:
+#for folder in folder_list:
+def rename_folder(folder):
     folder_strip = folder.rstrip()
     correct = re.search(r' \((19|20)\d{2}\)', folder_strip)
     spc_dot = re.search(r'( |\.)(19|20)\d{2}', folder_strip)
 
     if (correct !=  None) and (correct.span()):
         year = correct.group()
-        print(f'{folder_strip}: is the correct format {year}')
+        print(f'{folder_strip}: is the correct format {year[1:7]}')
     elif (spc_dot != None) and (spc_dot.span()):
         year = spc_dot.group()
         folder_name = folder_strip[0:spc_dot.start()]
@@ -1228,3 +1229,7 @@ for folder in folder_list:
     else:
         print(f'{folder_strip}: has an unknown format')
     print()
+
+if __name__ == "__main__":
+     for folder in folder_list:
+         rename_folder(folder)
