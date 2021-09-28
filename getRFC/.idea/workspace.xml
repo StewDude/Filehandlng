@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="930a3a0d-4fa6-45f7-a267-b4ea18bb28ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Bluetooth_Test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bluetooth_Test/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Directory&amp;File/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Directory&amp;File/.idea/Directory&amp;File.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Directory&amp;File/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Directory&amp;File/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Directory&amp;File/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Directory&amp;File/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Directory&amp;File/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Directory/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Directory/.idea/Directory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Directory/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Directory/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Directory/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Directory/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Directory/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Drag&amp;Drop/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Drag&amp;Drop/.idea/Drag&amp;Drop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Drag&amp;Drop/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Drag&amp;Drop/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Drag&amp;Drop/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Drag&amp;Drop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Drag&amp;Drop/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DragnDrop/.idea/DragnDrop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Filehandlng/.idea/Filehandlng.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FindEmptyDirs/.idea/FindEmptyDirs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FindEmptyDirs/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FindEmptyDirs/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FindEmptyDirs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FindEmptyDirs/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibreOfice-2/.idea/LibreOfice-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NoFilmInDir/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NoFilmInDir/.idea/NoFilmInDir.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NoFilmInDir/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NoFilmInDir/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NoFilmInDir/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NoFilmInDir/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OLD_Email/.idea/Email.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Qt5PythonGUIProgrammingCookbook_Code/Chapter01/.idea/Chapter01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/.idea/Server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/Server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UpdateVersionInfo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UpdateVersionInfo/.idea/UpdateVersionInfo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UpdateVersionInfo/UpdateVersionInfo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email_project.py/.idea/email_project.py.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fixed/.idea/fixed.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fixed/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fixed/replace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/getRFC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paho-mqtt/.idea/paho-mqtt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paho-mqtt/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../subprocess/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../subprocess/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../subprocess/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../subprocess/.idea/subprocess.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../subprocess/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trid/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trid/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trid/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trid/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trid/.idea/trid.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trid/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trid/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MariaDB/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MariaDB/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MoveDirs" beforeDir="false" afterPath="$PROJECT_DIR$/../MoveDirs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../subprocess/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../subprocess/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ljizEEu50ckdLi4Xs87yG4uXaZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="getRFC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="930a3a0d-4fa6-45f7-a267-b4ea18bb28ea" name="Default Changelist" comment="" />
+      <created>1608117161571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608117161571</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="301" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1609754903204">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="446" y="301" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1609754903204" />
+    <state width="1312" height="290" key="GridCell.Tab.0.bottom" timestamp="1608120648390">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="1312" height="290" key="GridCell.Tab.0.bottom/0.0.2048.1152@0.0.2048.1152" timestamp="1608120648390" />
+    <state width="1312" height="290" key="GridCell.Tab.0.center" timestamp="1608120648390">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="1312" height="290" key="GridCell.Tab.0.center/0.0.2048.1152@0.0.2048.1152" timestamp="1608120648390" />
+    <state width="1312" height="290" key="GridCell.Tab.0.left" timestamp="1608120648390">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="1312" height="290" key="GridCell.Tab.0.left/0.0.2048.1152@0.0.2048.1152" timestamp="1608120648390" />
+    <state width="1312" height="290" key="GridCell.Tab.0.right" timestamp="1608120648390">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="1312" height="290" key="GridCell.Tab.0.right/0.0.2048.1152@0.0.2048.1152" timestamp="1608120648390" />
+  </component>
+</project>

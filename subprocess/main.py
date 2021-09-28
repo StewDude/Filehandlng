@@ -1,5 +1,4 @@
 
 import subprocess as sp
-import pymysql
 
-sp.run("dir", shell=True)
+sp.run(["dir", "c:\\"], shell=True )

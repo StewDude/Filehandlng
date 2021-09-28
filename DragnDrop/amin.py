@@ -8,7 +8,7 @@ class App(QWidget):
 
     def __init__(self):
         super().__init__()
-        self.title = 'PyQt5 drag and drop - pythonspot.com'
+        self.title = 'PyQt5 drag and drop'
         self.left = 10
         self.top = 10
         self.width = 320
@@ -54,3 +54,4 @@ if __name__ == '__main__':
     app = QApplication(sys.argv)
     ex = App()
     sys.exit(app.exec_())
+    
