@@ -22,15 +22,25 @@ def rename_folder(folder):
 
 	return(final_name)
 
-dir_src = r"\\OMV-3\media\Video\Films"
+#dir_src = r"\\OMV-3\media\Video\Films"
+src_dir = r"\\OMV-3\media\Video\Test"
+
+#def rename_folder(old, new):
+#	if (os.exists(old) and shutil.isdir(old))and (not os.exists(new)):
+#		try:
+#			os.rename(old, new)
+#		except:
 
 if __name__ == "__main__":
-	for root, dirs, files in os.walk(dir_src):
+	os.chdir(src_dir)
+#	for root, dirs, files in os.walk(dir_src):
+	with os.scandir(src_dir) as dirs:
 		for folder in dirs:
-			name = rename_folder(folder)
-			if name == None:
-				print(f'{folder} is correct')
-			elif name == no_year:
-				print(f'{folder}: {name}')
-			else:
-				print(f'{folder} becomes >>>> {name}')
+			if folder.isdir():
+				name = rename_folder(folder)
+#				if name == None:
+#					print(f'{folder} is correct')
+#				elif name == no_year:
+#					print(f'{folder}: {name}')
+#				else:
+#					print(f'{folder} becomes >>>> {name}')
