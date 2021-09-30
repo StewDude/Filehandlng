@@ -7,7 +7,7 @@ no_year = 'No Year Found'
 
 def rename_folder(folder):
 	final_name = None
-	folder_strip = folder.rstrip()
+	folder_strip = folder
 	correct = re.search(r' \((19|20)\d{2}\)', folder_strip)
 	spc_dot = re.search(r'( |\.)(19|20)\d{2}', folder_strip)
 
@@ -34,13 +34,13 @@ src_dir = r"\\OMV-3\media\Video\Test"
 if __name__ == "__main__":
 	os.chdir(src_dir)
 #	for root, dirs, files in os.walk(dir_src):
-	with os.scandir(src_dir) as dirs:
-		for folder in dirs:
-			if folder.isdir():
-				name = rename_folder(folder)
-#				if name == None:
-#					print(f'{folder} is correct')
-#				elif name == no_year:
-#					print(f'{folder}: {name}')
-#				else:
-#					print(f'{folder} becomes >>>> {name}')
+	for folder in os.scandir(src_dir):
+#		if folder.isdir():
+			dir_name = folder.path
+			name = rename_folder(dir_name)
+			if name == None:
+				print(f'{dir_name} is correct')
+			elif name == no_year:
+				print(f'{dir_name}: {name}')
+			else:
+				print(f'{dir_name} becomes >>>> {name}')
