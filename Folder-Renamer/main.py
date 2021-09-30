@@ -32,15 +32,12 @@ src_dir = r"\\OMV-3\media\Video\Test"
 #		except:
 
 if __name__ == "__main__":
-	os.chdir(src_dir)
-#	for root, dirs, files in os.walk(dir_src):
 	for folder in os.scandir(src_dir):
-#		if folder.isdir():
-			dir_name = folder.path
-			name = rename_folder(dir_name)
-			if name == None:
-				print(f'{dir_name} is correct')
-			elif name == no_year:
-				print(f'{dir_name}: {name}')
-			else:
-				print(f'{dir_name} becomes >>>> {name}')
+		dir_name = folder.path
+		name = rename_folder(dir_name)
+		if name == None:
+			print(f'{dir_name} is correct')
+		elif name == no_year:
+			print(f'{dir_name}: {name}')
+		else:
+			print(f'{dir_name} becomes >>>> {name}')
